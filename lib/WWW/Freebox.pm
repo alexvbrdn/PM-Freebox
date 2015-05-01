@@ -16,7 +16,7 @@ WWW::Freebox - Access to FreeboxOS API
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
